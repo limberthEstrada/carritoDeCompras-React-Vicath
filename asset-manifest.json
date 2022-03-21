@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/carritoDeCompras-React-Vicath/static/css/main.ed25c717.css",
+    "main.js": "/carritoDeCompras-React-Vicath/static/js/main.fa742ab3.js",
+    "static/js/787.e6fd4c22.chunk.js": "/carritoDeCompras-React-Vicath/static/js/787.e6fd4c22.chunk.js",
+    "static/media/posca.jpg": "/carritoDeCompras-React-Vicath/static/media/posca.8c662e0dfad69e82064e.jpg",
+    "static/media/minnie.jpg": "/carritoDeCompras-React-Vicath/static/media/minnie.f08d57f3285d5c887a00.jpg",
+    "static/media/beneficio.jpg": "/carritoDeCompras-React-Vicath/static/media/beneficio.6f9dacfd5dd95cfd318e.jpg",
+    "static/media/agenda.jpg": "/carritoDeCompras-React-Vicath/static/media/agenda.960ebe3bd72820d297c1.jpg",
+    "static/media/hojas.jpg": "/carritoDeCompras-React-Vicath/static/media/hojas.7691fad06c1d13283b3a.jpg",
+    "static/media/logo.png": "/carritoDeCompras-React-Vicath/static/media/logo.c15ac65a4019b4316a99.png",
+    "static/media/visa.png": "/carritoDeCompras-React-Vicath/static/media/visa.cf885a41da9cf5c5182a.png",
+    "static/media/cartuchera.jpg": "/carritoDeCompras-React-Vicath/static/media/cartuchera.afdfe2a728014c9c1bd8.jpg",
+    "static/media/mcard.png": "/carritoDeCompras-React-Vicath/static/media/mcard.7855f5d53fe110beb4be.png",
+    "static/media/amazon.png": "/carritoDeCompras-React-Vicath/static/media/amazon.41f4715d3765ff006e12.png",
+    "static/media/paypal.png": "/carritoDeCompras-React-Vicath/static/media/paypal.e0027e3cf5905dd8fb2a.png",
+    "index.html": "/carritoDeCompras-React-Vicath/index.html",
+    "static/media/flechita.svg": "/carritoDeCompras-React-Vicath/static/media/flechita.e419d8c93e852173b9b8261835467277.svg",
+    "main.ed25c717.css.map": "/carritoDeCompras-React-Vicath/static/css/main.ed25c717.css.map",
+    "main.fa742ab3.js.map": "/carritoDeCompras-React-Vicath/static/js/main.fa742ab3.js.map",
+    "787.e6fd4c22.chunk.js.map": "/carritoDeCompras-React-Vicath/static/js/787.e6fd4c22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed25c717.css",
+    "static/js/main.fa742ab3.js"
+  ]
+}
